@@ -29,10 +29,10 @@
 			<h4>"And take pride in what we do enough to get the job done right."</h4>
 		</div><!--end all main-->
 	</main>
-		</div> <!-- wrapper--> 	
 	<footer>
 		<h5>Copyright information
 		<p>Search for us on Links to Facebook, Twitter and Linkedin.</p></h5>
 	</footer>
+	</div> <!-- wrapper--> 	
 </body>
 </html>
